@@ -1,1 +1,1 @@
-user information currently saved in device itself. It is not stored in any of our servers
+user information currently saved in device itself and it is unencrypted. These informations are not stored in any of our servers for this version(1.0.0) of app.
