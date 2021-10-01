@@ -1,0 +1,1 @@
+user information currently saved in device itself. It is not stored in any of our servers
